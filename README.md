@@ -52,9 +52,9 @@ I am seeking opportunities to grow as a UI/UX Engineer through internships, free
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Isharalakshan497&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
   <br><br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Isharalakshan497&amp;theme=dark&amp;hide_border=false"> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IsharaLakshan2002&amp;theme=dark&amp;hide_border=false"> 
 </td><td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Isharalakshan497&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IsharaLakshan2002&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
   </td>
 </tr>
 </tbody></table>
